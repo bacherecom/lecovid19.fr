@@ -1,5 +1,7 @@
 # lecovid19.fr
 
+The project makes it possible to capitalize data on the number of cases but also on the number of deaths as well as the cases of cures in France.
+
 This project needs you. If you have information on data updates, please let us know on <a traget="_blank" href="https://lecovid19.fr.contact"> CONTACT</a>
 
 For the moment 4 visualizations are available :
